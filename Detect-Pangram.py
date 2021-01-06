@@ -1,3 +1,9 @@
+'''
+Created on Dec 3, 2020
+
+@author: Salzaidy
+'''
+
 import string
 
 def is_pangram(s):
